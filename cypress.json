@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://cob-selfservice-alfakraft-dev-1.nord-b5t-dev.nordfk.se/alfakraft",
+  "testFiles": "**/*.feature",
+  "defaultCommandTimeout": 8000,
+  "viewportWidth": 1200,
+  "viewportHeight": 760
+}
